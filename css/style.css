@@ -152,7 +152,7 @@ h6 {
 
 #header #logo img {
   padding: 0;
-  margin: -10px;
+  margin: 0;
 }
 
 /*--------------------------------------------------------------
@@ -195,7 +195,9 @@ h6 {
 }
 
 #intro .intro-content h2 {
-  color: #008f97;
+  background: -webkit-linear-gradient(45deg, #008f97, #f48221 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
