@@ -152,7 +152,7 @@ h6 {
 
 #header #logo img {
   padding: 0;
-  margin: 0;
+  margin: -10px;
 }
 
 /*--------------------------------------------------------------
@@ -620,7 +620,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .box .icon i:before {
   background: #008f97;
-  background: linear-gradient(45deg, #f48221 0%, #a3ebd5 100%);
+  background: linear-gradient(45deg, #f48221 0%, #f7bd8b 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1028,11 +1028,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
+  font-size: 13px;
 }
 
 #footer .credits {
   text-align: center;
-  font-size: 13px;
+  font-size: 10 px;
   color: #555;
 }
 
