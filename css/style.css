@@ -351,6 +351,14 @@ h6 {
   outline: none;
 }
 
+.nav-menu a.blog-link {
+  border: 1px solid #555;
+}
+
+.nav-menu a.blog-link:hover {
+  border: 1px solid #f48221;
+}
+
 .nav-menu li:hover > a,
 .nav-menu .menu-active > a {
   color: #f48221;
