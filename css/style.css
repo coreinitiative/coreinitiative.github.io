@@ -740,6 +740,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+}
+
+.portfolio-info p {
+  color: white;
+  text-align: justify;
+  padding-top: 10px;
 }
 
 /* Testimonials Section
