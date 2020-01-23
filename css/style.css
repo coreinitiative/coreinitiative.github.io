@@ -731,7 +731,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item:hover .portfolio-overlay {
   opacity: 1;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(244, 130, 33, 0.7);
 }
 
 #portfolio .portfolio-info {
